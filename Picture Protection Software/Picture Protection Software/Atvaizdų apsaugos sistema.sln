@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apsauganti Programa", "Apsauganti Programa\Apsauganti Programa.csproj", "{70A0B259-35DD-44B3-B10E-F18BE82C8A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peržiūros Programa", "Peržiūros Programa\Peržiūros Programa.csproj", "{2AFE3530-79DD-4B4B-9325-D95B6F5F9151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A0B259-35DD-44B3-B10E-F18BE82C8A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A0B259-35DD-44B3-B10E-F18BE82C8A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A0B259-35DD-44B3-B10E-F18BE82C8A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A0B259-35DD-44B3-B10E-F18BE82C8A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFE3530-79DD-4B4B-9325-D95B6F5F9151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFE3530-79DD-4B4B-9325-D95B6F5F9151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFE3530-79DD-4B4B-9325-D95B6F5F9151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFE3530-79DD-4B4B-9325-D95B6F5F9151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
